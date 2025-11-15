@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022 — but occasionally solving a few too 😉<br>📚 I'm currently learning advanced React, API integrations, and AI-powered tools like Ollama<br>🎯 Goals: Build intuitive web platforms, master full-stack architecture, and deploy smart, scalable apps<br>🎲 Fun fact: I can debug for hours, but forget where I put my coffee in five minutes</p>
+<p align="left">✨ Creating bugs since 2022 — but occasionally solving a few too 😉<br>📚 I'm currently learning advanced React, API integrations, and AI-powered tools<br>🎯 Goals: Build intuitive web platforms, master full-stack architecture, and deploy smart, scalable apps<br>🎲 Fun fact: I can debug for hours, but forget where I put my coffee in five minutes</p>
 
 ###
 
